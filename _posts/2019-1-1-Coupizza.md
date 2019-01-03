@@ -1,5 +1,0 @@
-I've reached the point of believing Coupizza is no longer feasible. While it was a great platform for learning it's waned in real-world utiliy, especially with the recent changes to the FB API. It sort of became a proof-of-concept project a long time ago - applying what I was learning early on in web development and disregarding usability. I'm terrified of the possibility of adding to the trash-heap of less that usable web applications that exist. I seriously dislike littering. I do believe there is a place for a GOOD coupon finder, however the scope of that kind of project is beyond my capabilities (and likely any single person). It's possibly the most valuable thing I've done in terms of sheer learning, so it definitely isn't a total loss.  
-
-Since then I've been focusing on finding the next time-dump. I've been dipping my toes into AI/machine learning as well as contributing to <a href='https://github.com/devtools-html/debugger.html'>debugger.html</a> - something I'm really excited to contribute to. I also plan to be more active with blogging.  
-
-Till next time.
